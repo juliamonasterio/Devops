@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Julita.txt creadoi:cambio dentro del repositorio local
 
+=======
+Julita.txt creadoi:	
+Modificado desde web
+>>>>>>> 5f0c7711735a73e89b974b0b88aa263a0a29fede
